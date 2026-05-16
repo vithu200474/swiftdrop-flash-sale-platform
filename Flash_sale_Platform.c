@@ -18,7 +18,10 @@ void Event_Managemnt(){}
 
 
 int main(){
-
+    printf("Select the you want.\n");
+    printf("1) Creat Evant.\n");
+    printf("2) Edit evant details.");
+    printf("3) De activated coustomer account.");
 /* ----------------------------------------------------------------------------------------------*/
     printf("SAMPLE DATA BASE updating......\n");
 
